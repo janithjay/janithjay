@@ -23,7 +23,7 @@ Here are some tools and technologies I’ve worked with
 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=janithjay&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janithjay&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=janithjay&layout=compact&theme=dark)  
 
 
 
