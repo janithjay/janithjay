@@ -5,15 +5,18 @@
   <a href="https://www.linkedin.com/in/janithjayashan/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:janithjayashan018@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ## 🎓 About Me
 ✨ Computer Engineering Undergraduate | 🔧 Tech Enthusiast | ✔️ Problem Solver
 > "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-## 🚀 What I'm Up To
-- 🌱 I’m currently learning
-  
+## 🔭 What I'm Working On
+- 🚀 Building a full-stack **Inventory Management System** with real-time updates using React, TypeScript, Node.js, MongoDB & Socket.io
+
 ## 💻 Tech Stack
 
 ### Languages
@@ -28,15 +31,14 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 ### Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-### AI/ML
-![Rasa](https://img.shields.io/badge/-Rasa-5A31F4?style=flat&logo=rasa&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ### Tools & Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -45,15 +47,8 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=janithjay&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-## 📈 Language Usage
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janithjay&layout=compact&theme=dark" alt="Top Languages" />
 </p>
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=janithjay&theme=onestar&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🤝 Connect With Me
 <p align="center">
