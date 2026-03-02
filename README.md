@@ -42,18 +42,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janithjay&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-## 📈 Language Usage
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janithjay&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=janithjay&theme=onestar&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🤝 Connect With Me
 <p align="center">
