@@ -1,18 +1,11 @@
-<h1 align="center">
-  Hi there, I'm Janith Jayashan! 👋
+<h1 align="left">
+  Hi, I'm Janith Jayashan! 👋
 </h1>
-<p align="center">
-  <a href="https://www.linkedin.com/in/janithjayashan/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 ## 🎓 About Me
-✨ Computer Engineering Undergraduate | 🔧 Tech Enthusiast | ✔️ Problem Solver
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
+✨ Software Engineering Intern | 🔧 Tech Enthusiast | ✔️ Problem Solver | Learning 🌱
 
-## 🚀 What I'm Up To
-- 🌱 I’m currently learning
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
   
 ## 💻 Tech Stack
 
@@ -38,13 +31,11 @@
 ![Rasa](https://img.shields.io/badge/-Rasa-5A31F4?style=flat&logo=rasa&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-### Tools & Others
+### Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
 
 ## 🤝 Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/janithjayashan/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
